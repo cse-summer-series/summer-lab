@@ -6,9 +6,12 @@ Click the button below to open it in a GitHub Codespace — you get a full
 terminal with `gcc` (and AddressSanitizer) already installed, right in your
 browser.
 
-**Joe's hope** is that no payment method is required, and that free-tier hours
-are far more than you'll need this summer. Contact him at jpolitz@ucsd.edu if you run
-into any issues.
+**No payment method required.** Codespaces run on your own GitHub account's
+free monthly allowance (120 core-hours and 15 GB of storage on a free account)
+— far more than you'll need this summer. If an account has no card on file,
+GitHub blocks further use rather than charging you, so you can't be billed by
+accident. Stop or delete your codespace when you're done. Questions or trouble?
+Email Joe at jpolitz@ucsd.edu.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cse-summer-series/summer-lab)
 
