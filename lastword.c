@@ -4,7 +4,13 @@
 // It compiles. It runs. It even looks reasonable. Your job is to find out
 // whether you can trust it.
 //
-//   1. Build and run it:
+//  Open a terminal: click the ☰ menu in the top-left corner → Terminal → New
+//  Terminal. (Or press Ctrl + ` — the backtick key, top-left of your
+//  keyboard.) A panel opens at the bottom of the screen; that's where you type
+//  the commands below.
+//
+//   1. Build and run it by typing or copying each of these lines to the
+//   terminal and pressing Enter after each:
 //        gcc -o lastword lastword.c
 //        ./lastword
 //      What does it print? Run it a few more times — same answer every time?
@@ -43,7 +49,10 @@ int lengthOfLastWord(char *s) {
 }
 
 int main(void) {
-    char s[] = "hello";           // <-- try changing this word
+    printf("input=\"hello summer\"  ->  lengthOfLastWord = %d\n",
+           lengthOfLastWord("hello summer"));
+
+    char s[] = "hello";           // <-- last (only) word is length 5!
     printf("input=\"%s\"  ->  lengthOfLastWord = %d\n", s, lengthOfLastWord(s));
     return 0;
 }

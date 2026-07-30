@@ -1,10 +1,14 @@
 # CSE Summer Series — C Lab
 
-A ready-to-run Linux environment for the [CSE Summer Series](https://cse-summer-series.github.io/2026/)
-programming activities. Click the button below to open it in a GitHub Codespace —
-you get a full terminal with `gcc` (and AddressSanitizer) already installed, right
-in your browser. No payment method required, and free-tier hours are far more than
-you'll need this summer.
+A Linux environment for the [CSE Summer
+Series](https://cse-summer-series.github.io/2026/) programming activities.
+Click the button below to open it in a GitHub Codespace — you get a full
+terminal with `gcc` (and AddressSanitizer) already installed, right in your
+browser.
+
+**Joe's hope** is that no payment method is required, and that free-tier hours
+are far more than you'll need this summer. Contact him at jpolitz@ucsd.edu if you run
+into any issues.
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cse-summer-series/summer-lab)
 
