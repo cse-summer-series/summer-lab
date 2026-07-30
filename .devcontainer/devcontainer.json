@@ -1,0 +1,4 @@
+{
+  "name": "CSE Summer Series — C lab",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1-ubuntu-24.04"
+}
